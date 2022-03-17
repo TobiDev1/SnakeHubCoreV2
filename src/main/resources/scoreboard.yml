@@ -1,0 +1,29 @@
+SCOREBOARD:
+  TITLE: "&c&lInfernalMC &f\u2503 &7Hub"
+  FOOTER: "&7ts.infernalmc.cc"
+  LINES:
+    - "&7&m--------------------"
+    - "&8{placeholder:date} &7&o{placeholder:time}"
+    - " "
+    - "&cOnline&7: {players_online}"
+    - ""
+    - "&cRank&7: {rank}"
+    - " "
+    - "{footers}"
+    - "&7&m--------------------"
+  ANIMATED:
+    FOOTER:
+      LINES:
+        1: "&7discord.gg/InfernalMC"
+        2: "&7twitter.com/InfernalMC_"
+        3: "&7ts.infernalmc.cc"
+        4: "&7store.infernalmc.cc"
+    TITLE:
+      LINES:
+        1: "&cI"
+        2: "&cIn"
+        3: "&cInf"
+        4: "&cInfe"
+        5: "&cInfer"
+        6: "&cInferna"
+        7: "&cInfernalMC"

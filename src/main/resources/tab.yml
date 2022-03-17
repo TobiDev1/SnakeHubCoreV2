@@ -1,0 +1,254 @@
+TAB:
+  ENABLED: true
+  HEADER:
+    - "&c&lInfernalMC &lNetwork"
+
+  FOOTER:
+    - "&fYou are playing &cHub-01 &fon &cinfernalmc.cc"
+
+  LEFT:
+    1:
+      TEXT: ""
+      SKIN: ""
+    2:
+      TEXT: ""
+      SKIN: ""
+    3:
+      TEXT: ""
+      SKIN: ""
+    4:
+      TEXT: "&c&lStore"
+      SKIN: "{store}"
+    5:
+      TEXT: "&fstore.infernalmc.cc"
+      SKIN: ""
+    6:
+      TEXT: ""
+      SKIN: ""
+    7:
+      TEXT: ""
+      SKIN: ""
+    8:
+      TEXT: ""
+      SKIN: ""
+    9:
+      TEXT: "&cKitmap&f: %pinger_players_localhost:25561%"
+      SKIN: "{enderchest}"
+    10:
+      TEXT: "&fStatus: %pinger_isonline_localhost:25561%"
+      SKIN: ""
+    11:
+      TEXT: "&eUnder Maintenance"
+      SKIN: ""
+    12:
+      TEXT: ""
+      SKIN: ""
+    13:
+      TEXT: ""
+      SKIN: ""
+    14:
+      TEXT: ""
+      SKIN: ""
+    15:
+      TEXT: ""
+      SKIN: ""
+    16:
+      TEXT: ""
+      SKIN: ""
+    17:
+      TEXT: ""
+      SKIN: ""
+    18:
+      TEXT: ""
+      SKIN: ""
+    19:
+      TEXT: ""
+      SKIN: ""
+    20:
+      TEXT: ""
+      SKIN: ""
+  CENTER:
+    1:
+      TEXT: "&c&lInfernalMC"
+      SKIN: "{planet}"
+    2:
+      TEXT: "&cOnline&f: {players_online}/{players_max_online}"
+      SKIN: ""
+    3:
+      TEXT: ""
+      SKIN: ""
+    4:
+      TEXT: ""
+      SKIN: ""
+    5:
+      TEXT: ""
+      SKIN: ""
+    6:
+      TEXT: ""
+      SKIN: ""
+    7:
+      TEXT: "&c&lServer &lInfo"
+      SKIN: ""
+    8:
+      TEXT: ""
+      SKIN: ""
+    9:
+      TEXT: "&cHCF&f: %pinger_players_localhost:25567%"
+      SKIN: "{castle}"
+    10:
+      TEXT: "&fStatus: %pinger_isonline_localhost:25567%"
+      SKIN: ""
+    11:
+      TEXT: "&fKit: Prot I, Sharp I"
+      SKIN: ""
+    12:
+      TEXT: ""
+      SKIN: ""
+    13:
+      TEXT: ""
+      SKIN: ""
+    14:
+      TEXT: ""
+      SKIN: ""
+    15:
+      TEXT: ""
+      SKIN: ""
+    16:
+      TEXT: ""
+      SKIN: ""
+    17:
+      TEXT: ""
+      SKIN: ""
+    18:
+      TEXT: ""
+      SKIN: ""
+    19:
+      TEXT: ""
+      SKIN: ""
+    20:
+      TEXT: ""
+      SKIN: ""
+  RIGHT:
+    1:
+      TEXT: ""
+      SKIN: ""
+    2:
+      TEXT: ""
+      SKIN: ""
+    3:
+      TEXT: ""
+      SKIN: ""
+    4:
+      TEXT: "&c&lDiscord"
+      SKIN: "{discord}"
+    5:
+      TEXT: "discord.gg/InfernalMC"
+      SKIN: ""
+    6:
+      TEXT: ""
+      SKIN: ""
+    7:
+      TEXT: ""
+      SKIN: ""
+    8:
+      TEXT: ""
+      SKIN: ""
+    9:
+      TEXT: "&cPractice&f: %pinger_players_localhost:25527%"
+      SKIN: "{heart}"
+    10:
+      TEXT: "&fStatus: %pinger_isonline_localhost:25562%"
+      SKIN: ""
+    11:
+      TEXT: "&eUnder Maintenance"
+      SKIN: ""
+    12:
+      TEXT: ""
+      SKIN: ""
+    13:
+      TEXT: ""
+      SKIN: ""
+    14:
+      TEXT: ""
+      SKIN: ""
+    15:
+      TEXT: ""
+      SKIN: ""
+    16:
+      TEXT: ""
+      SKIN: ""
+    17:
+      TEXT: ""
+      SKIN: ""
+    18:
+      TEXT: ""
+      SKIN: ""
+    19:
+      TEXT: ""
+      SKIN: ""
+    20:
+      TEXT: ""
+      SKIN: ""
+
+  # Only 1.8 #
+  farright:
+    1:
+      TEXT: ""
+      SKIN: ""
+    2:
+      TEXT: ""
+      SKIN: ""
+    3:
+      TEXT: ""
+      SKIN: ""
+    4:
+      TEXT: ""
+      SKIN: ""
+    5:
+      TEXT: ""
+      SKIN: ""
+    6:
+      TEXT: ""
+      SKIN: ""
+    7:
+      TEXT: ""
+      SKIN: ""
+    8:
+      TEXT: ""
+      SKIN: ""
+    9:
+      TEXT: ""
+      SKIN: ""
+    10:
+      TEXT: ""
+      SKIN: ""
+    11:
+      TEXT: ""
+      SKIN: ""
+    12:
+      TEXT: ""
+      SKIN: ""
+    13:
+      TEXT: ""
+      SKIN: ""
+    14:
+      TEXT: ""
+      SKIN: ""
+    15:
+      TEXT: ""
+      SKIN: ""
+    16:
+      TEXT: ""
+      SKIN: ""
+    17:
+      TEXT: ""
+      SKIN: ""
+    18:
+      TEXT: ""
+      SKIN: ""
+    19:
+      TEXT: ""
+      SKIN: ""
+    20:
+      TEXT: ""
+      SKIN: ""

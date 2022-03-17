@@ -1,0 +1,4 @@
+name: SnakeHub
+version: 1.2.0-HOTFIX
+main: dev.aapy.SnakeHub
+authors: [Aapy]

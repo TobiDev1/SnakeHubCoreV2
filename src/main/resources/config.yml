@@ -1,0 +1,147 @@
+#  ____              _        _   _       _     #
+# / ___| _ __   __ _| | _____| | | |_   _| |__  #
+# \___ \| "_ \ / _` | |/ / _ \ |_| | | | | "_ \ #
+#  ___) | | | | (_| |   <  __/  _  | |_| | |_) |#
+# |____/|_| |_|\__,_|_|\_\___|_| |_|\__,_|_.__/ #
+#################################################
+
+# BOOLEANS CONFIG
+
+BOOLEANS:
+  JOIN-MESSAGE: false
+  QUIT-MESSAGE: false
+  TABLIST: false
+  LUNAR-CLIENT:
+    NAMETAG: false
+  SCOREBOARD:
+    ANIMATED:
+      FOOTER: true
+      TITLE: false
+
+CHAT-FORMAT:
+  - "{prefix}{player}&7: &f{message}"
+
+LAUNCH-PAD:
+  MATERIAL: GOLD_PLATE
+  SOUND: EXPLODE
+
+SOCIAL:
+  DISCORD: discord.gg/InfernalMC
+  STORE: store.infernalmc.cc
+  TEAMSPEAK: ts.infernalmc.cc
+  TWITTER: twitter.com/InfernalMC_
+  WEBSITE: www.infernalmc.cc
+
+SELECTOR:
+  ENABLED: true
+  MATERIAL: WATCH
+  ENCHANTED: false
+  SOUND_ENABLED: false
+  SOUND: CHEST_OPEN
+  GLASS_PANEL:
+    ENABLED: false
+    ID: 14
+  DISPLAYNAME: "&4\u2726 &4Server Selector &4\u2726"
+  TITLE: "&8Select A Server"
+  SLOT: 4
+  LORE: "&7Right-click to open the hub menu!"
+  SERVERS:
+    "1":
+      DISPLAYNAME: "&e&lDEV &4Kits"
+      MATERIAL: GOLDEN_APPLE
+      ENCHANTED: false
+      SLOT: 11
+      MESSAGE: "&aSent you to the server Kitmap!"
+      BUNGEE:
+        ENABLED: false
+        SERVER: KITMAP
+      EZQUEUE:
+        ENABLED: true
+        QUEUE: PRACTICE
+      LORE:
+        - "&7Battle other users in a shot-"
+        - "&7paced environment. Build your"
+        - "&7base and practice classes."
+        - ""
+        - "&6Players: &f%bungee_kitmap%"
+        - "&6Status: &f%aqua_server_status_Kits%"
+        - ""
+        - "&7&oClick to join the queue."
+    "2":
+      DISPLAYNAME: "&4HCF"
+      MATERIAL: DIAMOND_PICKAXE
+      ENCHANTED: false
+      SLOT: 15
+      MESSAGE: "&aSent you to the server HCF!"
+      BUNGEE:
+        ENABLED: false
+        SERVER: HCF
+      EZQUEUE:
+        ENABLED: true
+        QUEUE: Leagues
+      LORE:
+        - "&7Create your team and grind"
+        - "&7to become the most powerful"
+        - "&7faction on the server."
+        - ""
+        - "&6Map Kit: &fUndefined"
+        - "&6Faction Size: &fUndefined"
+        - ""
+        - "&6Players: &f%bungee_Leagues%"
+        - "&6Status: &f%aqua_server_status_Leagues%"
+        - ""
+        - "&7&oClick to join the queue."
+    "3":
+      DISPLAYNAME: "&4???"
+      MATERIAL: REDSTONE_BLOCK
+      ENCHANTED: false
+      SLOT: 13
+      MESSAGE: "&C???"
+      BUNGEE:
+        ENABLED: false
+        SERVER: PRACTICE
+      EZQUEUE:
+        ENABLED: true
+        QUEUE: PRACTICE
+      LORE:
+        - "&C???"
+PVP:
+  ENABLED: false
+  MATERIAL: DIAMOND_SWORD
+  ENCHANTED: true
+  SOUND: CHEST_OPEN
+  DISPLAYNAME: "&4\u2726 &4PvP Mode &4\u2726"
+  SLOT: 6
+  LORE: "&7Right-click to join to PvP Mode!"
+
+COSMETIC:
+  ENABLED: false
+  MATERIAL: EMERALD
+  ENCHANTED: false
+  GLASS_PANEL:
+    ENABLED: true
+    ID: 3
+  DISPLAYNAME: "&4\u2726 &4Cosmetics &4\u2726"
+  SLOT: 6
+  LORE: "&7Right-click to open the cosmetics menu!"
+
+ENDERBUTT:
+  ENABLED: true
+  MATERIAL: ENDER_PEARL
+  ENCHANTED: false
+  SOUND: PORTAL
+  DISPLAYNAME: "&4\u2726 &4EnderButt &4\u2726"
+  SLOT: 2
+  LORE: "&7Right-Click For Fly"
+
+INVISIBILITY:
+  ENABLED: true
+  ITEM:
+    SHOW-PLAYER:
+      NAME: "&4\u2726 &aShow Players &4\u2726"
+      MATERIAL: BLAZE_ROD
+      SLOT: 6
+    HIDE-PLAYER:
+      NAME: "&4\u2726 &7Hide Players &4\u2726"
+      MATERIAL: CLAY_BALL
+      SLOT: 6

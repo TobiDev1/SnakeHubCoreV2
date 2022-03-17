@@ -1,0 +1,46 @@
+# GENERAL LANG CONFIG
+
+JOIN:
+  MESSAGE:
+    - "&7&m-----*----------------------------------*-----"
+    - "&fBienvenido &c&l{ign} &fHubCore creada por &c&l7qv_"
+    - ""
+    - " &7\u25CF &fTu rango actual es: {rank}"
+    - " &7\u25CF &c&lStore: &f{store}"
+    - " &7\u25CF &c&lTeamspeak: &f{team-speak}"
+    - " &7\u25CF &c&lTwitter: &f{twitter}"
+    - " &7\u25CF &c&lDiscord: &f{discord}"
+    - " &7\u25CF &c&lWebsite: &f{web-site}"
+    - "&7&m-----*---------------------------------*-----"
+
+TITLE: #ONLY FOR LUNAR CLIENT API COMPATIBILITY WITH PLACEHOLDERAPI
+  ENABLED: true
+  JOIN:
+    TITLE:
+      MESSAGE: "&c&lInfernalMC Network"
+    SUBTITLE:
+      MESSAGE: "&fThanks For Playing"
+
+QUIT:
+  MESSAGE:
+    - "&7&m-----*----------------------------------*-----"
+    - ""
+    - "{rank} &c&l{ign} &fse desconecto"
+    - ""
+    - "&7&m-----*---------------------------------*-----"
+
+
+HIDE-PLAYER: "&cPlayer visibility has been &cdisable&c."
+SHOW-PLAYER: "&cPlayer visibility has been &aenable&c."
+
+SOCIAL:
+  DISCORD:
+    - "&cDiscord&7: &f{discord}"
+  STORE:
+    - "&cStore&7: &f{store}"
+  TEAMSPEAK:
+    - "&cTeamSpeak&7: &f{team-speak}"
+  TWITTER:
+    - "&cTwitter&7: &f{twitter}"
+  WEBSITE:
+    - "&cWebSite&7: &f{website}"
