@@ -133,15 +133,3 @@ ENDERBUTT:
   DISPLAYNAME: "&4\u2726 &4EnderButt &4\u2726"
   SLOT: 2
   LORE: "&7Right-Click For Fly"
-
-INVISIBILITY:
-  ENABLED: true
-  ITEM:
-    SHOW-PLAYER:
-      NAME: "&4\u2726 &aShow Players &4\u2726"
-      MATERIAL: BLAZE_ROD
-      SLOT: 6
-    HIDE-PLAYER:
-      NAME: "&4\u2726 &7Hide Players &4\u2726"
-      MATERIAL: CLAY_BALL
-      SLOT: 6
